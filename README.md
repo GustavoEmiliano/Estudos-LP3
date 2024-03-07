@@ -7,7 +7,7 @@ Este repositório é aonde irei alocar os códigos/projetos direcionados a disci
 # Descrição
  Neste repositório, estarei armazenando meus códigos da disciplina durante o ano no qual tem seu foco no BackEnd utilizando a linguagem de programação Phyton como ferramenta.
  
- - Conteúdo ministrado pelo professor **Domingos Latorre**.
+ - Conteúdo ministrado pelo professor **Domingos Latorre-LP3**.
 
   <h1 align="center">
    <img alt="Gustavo" style="margin: 0 auto;" height="150" width="150"  src="https://github.com/GustavoEmiliano/estudos-lp3/blob/main/assets/OIG3%20(1).jpeg" alt="Gustavo">
