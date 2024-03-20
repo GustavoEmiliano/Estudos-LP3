@@ -1,4 +1,4 @@
-#Crie um programa em Python que peça ao usuário um número real e exiba sua parte inteira.
+#  Crie um programa em Python que peça ao usuário um número real e exiba sua parte inteira.
 
 print('==============================')
 numero = input('Entre com um número real:')

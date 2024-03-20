@@ -1,4 +1,4 @@
-#Desenvolva um programa em Python que receba duas notas de um aluno e calcule a média aritmética.
+#  Desenvolva um programa em Python que receba duas notas de um aluno e calcule a média aritmética.
 print('==============================')
 nota1 = input('Insira o valor da nota1:')
 nota1 = int(nota1)

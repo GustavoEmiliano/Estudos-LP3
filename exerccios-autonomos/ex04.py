@@ -1,4 +1,4 @@
-#Faça um programa em Python que solicite o raio de um círculo e calcule sua área.
+#  Faça um programa em Python que solicite o raio de um círculo e calcule sua área.
 import math
 print('==============================')
 raio = float(input('Insira o valor do raio do círculo:'))
